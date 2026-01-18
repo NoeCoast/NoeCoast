@@ -28,33 +28,44 @@ Trabajo con equipos interdisciplinarios, multiculturales y distribuidos, coordin
 - Implemento herramientas de gestión ágiles adaptadas a cada equipo
 - Acompaño proyectos y productos de forma end-to-end, desde el análisis inicial hasta la entrega
 
----
-
-## 🛠 Prácticas de trabajo
-
-Agile Project Management · Scrum · Kanban ·  
-Planificación iterativa · Gestión de backlog ·  
-Sprint Planning · Reviews · Retrospectives · Seguimiento y métricas
 
 ---
 
-## 🛠 Herramientas de trabajo
+## 🛠 Herramientas 
 
-GitHub · GitHub Projects · Jira · Confluence ·  
-Trello · Asana · Notion · Miro
-
----
-
-## 🧩 Background técnico
-
-HTML5 · CSS3 · JavaScript · TypeScript · Angular · Node.js ·  
-Python · Django · SQL · Java · Git · GitHub · WordPress
+![GitHub Projects](https://img.shields.io/badge/GitHub%20Projects-181717?style=flat&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat&logo=asana&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FFD02F?style=flat&logo=miro&logoColor=000000)
 
 ---
 
-## 🧰 IDEs y herramientas de desarrollo
+## 🧩 Background Técnico
 
-Android Studio · Visual Studio Code
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 🧰 IDEs & Dev Tools
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
 
 ---
 
